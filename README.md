@@ -1,1 +1,3 @@
-# audible_dataset_cleaning
+### Audible Dataset Cleaning & Transformation
+
+This project focuses on cleaning and transforming the Audible dataset to make it suitable for analysis. Raw data often contains missing values, inconsistent formats, duplicates, and irrelevant fields. In this step, we handle null values, standardize column formats (such as dates and ratings), remove duplicates, and correct data types for better usability. We also perform basic feature engineering, like splitting combined fields and normalizing text data. The goal is to produce a structured, clean dataset that can be reliably used for data analysis, visualization, and downstream machine learning tasks.
